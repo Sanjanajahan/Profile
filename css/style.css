@@ -1,0 +1,48 @@
+body{
+	background-color: #bdc3c7;
+	margin: 0;
+}
+.content{
+	background-color: white;
+	
+	
+}
+.main-box{
+	text-align: center;
+	
+	align-items: center;
+	background-color: white;
+	font-size: 20px;
+	font-family: sans-serif;
+	padding: 50px;
+	width: 1000px;
+	margin-left: auto; margin-right: auto;
+	margin-top: 100px;
+	box-shadow: 0 0 10px #ff00004d;
+}
+.header{
+   text-align: center;
+   padding: 50px;
+
+}
+h3{
+   margin: 0;
+   
+}
+h1{
+   margin: 0;
+   color: #179b0c;
+}
+li{
+
+}
+ul{
+
+}
+img{
+	margin-top: 10px;
+
+}
+span{
+	color: #192b08;
+}
